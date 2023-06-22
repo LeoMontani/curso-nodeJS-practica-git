@@ -30,6 +30,7 @@ input {
   border-radius: 8px;
   padding-left: 10px;
   height: 40px;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .button_container {
   display: flex;
@@ -43,7 +44,8 @@ input {
   text-align: center;
   border: none;
   border-radius: 8px;
-  background-color: #e5c090;
+  background-color: #df4f4f;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .secondary_button {
   width: 80px;
@@ -54,6 +56,7 @@ input {
   border-radius: 8px;
   background-color: #016201;
   color: #fff;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .socials_container {
   width: 240px;
@@ -72,6 +75,7 @@ input {
   width: 40px;
   height: 40px;
   border-radius: 8px;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .linkedin {
   background-color: #008b8b;
@@ -79,6 +83,7 @@ input {
   width: 40px;
   height: 40px;
   border-radius: 8px;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .google-plus {
   background-color: #ff0000;
@@ -86,6 +91,7 @@ input {
   width: 40px;
   height: 40px;
   border-radius: 8px;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
 .whatsapp {
   background-color: #22db22;
@@ -93,4 +99,5 @@ input {
   width: 40px;
   height: 40px;
   border-radius: 8px;
+  box-shadow: 4px 4px 4px 0 rgba(58, 64, 58, 0.7);
 }
